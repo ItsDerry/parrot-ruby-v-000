@@ -1,7 +1,4 @@
-def parrot(phrase = "Squawk!")
-  if phrase != ""
+def parrot(phrase="Squawk!")
     puts phrase
-  else
     return "Squawk!"
-  end
 end
